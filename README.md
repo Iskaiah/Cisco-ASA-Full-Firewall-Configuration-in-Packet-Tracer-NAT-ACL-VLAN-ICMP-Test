@@ -20,5 +20,6 @@ ASA Outside IP: 10.0.0.1/24
 Router Outsider IP: 10.0.0.2/24
 PC1(Outsider): 172.16.0.10/24
 
+## 1. FIREWALL CONFIGURATION
 
 
